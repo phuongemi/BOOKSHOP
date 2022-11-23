@@ -304,7 +304,7 @@ class ContentCart extends Component {
                         Notification
                       </Modal.Title>
                     </Modal.Header>
-                    <Modal.Body>Đặt Hang Thất Bại</Modal.Body>
+                    <Modal.Body>Đặt Hàng Thất Bại</Modal.Body>
                     <Modal.Footer>
                       <Button onClick={() => this.setState({ showpaymentfail: false })}>
                         <a>Cancel</a>

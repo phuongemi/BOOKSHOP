@@ -79,15 +79,15 @@ class HeaderMiddle extends Component {
     return (
       <div className="header-middle">
         <div className="container">
-          <div className="row">
+          <div className="row">          
             <div className="col-sm-4">
               <div className="logo pull-left">
                 <a href="/">
                   <img src="/assets/images/home/logo1.gif" alt="" />
                 </a>
-              </div>
-             
+              </div>             
             </div>
+            
             <div className="col-sm-8">
               <div className="shop-menu pull-right">
                 <ul className="nav navbar-nav collapse navbar-collapse">
@@ -96,9 +96,7 @@ class HeaderMiddle extends Component {
                       <i className="fa fa-user dropbtn"></i>
                     </a>
                       {this.hoverlogin()}
-                </li>
-                 
-                 
+                </li>                
                   <li>
                     <Link to={"/cart"}>
                       <i className="fa fa-shopping-cart" />

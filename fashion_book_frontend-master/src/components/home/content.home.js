@@ -119,7 +119,7 @@ class ContentHome extends Component {
                           type="radio"
                           name="optradio"
                           checked={this.state.check_1}
-                        />ALl price
+                        />Tất cả
                       </label>
                     </div>
                     <div className="radio">
@@ -140,7 +140,7 @@ class ContentHome extends Component {
                     <div className="radio ">
                       <label
                         onClick={() => {
-                          this.props.setRangeType({ low: 50000, high: 100000 });
+                          this.props.setRangeType({ low: 60000, high: 100000 });
                           this.resetCheck();
                           this.setState({ check_3: true });
                         }}
@@ -157,7 +157,7 @@ class ContentHome extends Component {
                         onClick={() => {
                           this.resetCheck();
                           this.setState({ check_4: true });
-                          this.props.setRangeType({ low: 100000, high: 150000 });
+                          this.props.setRangeType({ low: 110000, high: 150000 });
                         }}
                       >
                         <input
@@ -170,7 +170,7 @@ class ContentHome extends Component {
                     <div className="radio ">
                       <label
                         onClick={() => {
-                          this.props.setRangeType({ low: 150000, high: 1500000 });
+                          this.props.setRangeType({ low: 160000, high: 1500000 });
                           this.resetCheck();
                           this.setState({ check_5: true });
                         }}
@@ -179,8 +179,7 @@ class ContentHome extends Component {
                           type="radio"
                           name="optradio"
                           checked={this.state.check_5}
-                        />{" "}
-                        
+                        />Trên 150.000                       
                       </label>
                     </div>
                   </div>
