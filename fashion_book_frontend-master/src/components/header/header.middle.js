@@ -83,12 +83,21 @@ class HeaderMiddle extends Component {
             <div className="col-sm-4">
               <div className="logo pull-left">
                 <a href="/">
-                  <img src="/assets/images/home/logo1.gif" alt="" />
+                  <img src="/assets/images/home/LogoBook.png" alt="" style={{width : '150px', height : '150px'}}/>
                 </a>
               </div>             
             </div>
-            
-            <div className="col-sm-8">
+            <div className="col-sm-4">
+                            <div className="search_box pull-right">
+                                <input
+                                    type="text"
+                                    placeholder="Search"
+                                    onChange={(e) => this.props.setSearchText(e.target.value)}
+                                    onKeyUp={(e) => this.handeSearch(e.keyCode)}
+                                />
+                            </div>
+                        </div>
+            <div className="col-sm-4">
               <div className="shop-menu pull-right">
                 <ul className="nav navbar-nav collapse navbar-collapse">
                 <li className='dropdown'>
@@ -97,7 +106,7 @@ class HeaderMiddle extends Component {
                     </a>
                       {this.hoverlogin()}
                 </li>                
-                  <li>
+                  <li className='dropdown'>
                     <Link to={"/cart"}>
                       <i className="fa fa-shopping-cart" />
                     </Link>

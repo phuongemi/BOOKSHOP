@@ -74,7 +74,7 @@
       .header-middle .container .row {
         border-bottom: 1px solid #f5f5f5;
         padding-bottom: 20px;
-        padding-top: 20px;
+        /* padding-top: 20px; */
       }
 
       .usa {
@@ -139,12 +139,6 @@
       .shop-menu ul li a:hover {
         color:#f15129;
         background:#fff;
-      }
-
-
-      .header-bottom {
-        padding-bottom: 30px;
-        padding-top: 30px;
       }
 
       .navbar-collapse.collapse{
@@ -226,11 +220,12 @@
         font-weight: 400;
         height: 42px;
         outline: medium none;
-        padding-left: 10px;
+        padding-left: 15px;
         background-repeat: no-repeat;
         background-position: 130px;
         border-radius: 25px;
         width: 100%;
+        margin-top: 45px;
       }
 
       .search_box.pull-right {
@@ -250,7 +245,12 @@
           background-color: #fff;
       }
 
-
+      .dropdown{
+        margin-top: 35px;
+      }
+.fa-lock{
+  margin-top: 35px;
+}
       .nav.navbar-nav > li:hover > ul.sub-menu{
         display: block;
         -webkit-animation: fadeInUp 400ms;

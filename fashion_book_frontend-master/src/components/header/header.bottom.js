@@ -61,7 +61,7 @@ class HeaderBottom extends Component {
                         <div className="col-sm-8">
 
                         </div>
-                        <div className="col-sm-4">
+                        {/* <div className="col-sm-4">
                             <div className="search_box pull-right">
                                 <input
                                     type="text"
@@ -70,7 +70,7 @@ class HeaderBottom extends Component {
                                     onKeyUp={(e) => this.handeSearch(e.keyCode)}
                                 />
                             </div>
-                        </div>
+                        </div> */}
                        
 
                     </div>
