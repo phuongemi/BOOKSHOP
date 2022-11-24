@@ -83,7 +83,7 @@ class HeaderMiddle extends Component {
             <div className="col-sm-4">
               <div className="logo pull-left">
                 <a href="/">
-                  <img src="/assets/images/home/LogoBook.png" alt="" style={{width : '150px', height : '150px'}}/>
+                  <img src="/assets/images/home/LogoBook.png" alt="" style={{width : '120px', height : '120px'}}/>
                 </a>
               </div>             
             </div>

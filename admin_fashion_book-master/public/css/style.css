@@ -34,7 +34,7 @@
     }
 
     .btn-custom {
-        background-color: #106894;
+        background-color: #b6474f;
         border: none;
         width: 100px;
         height: 30px;
@@ -526,7 +526,8 @@
 
         position: fixed;
 
-        background: #4e73df;
+        background: #9a4055;
+        font-family: serif;
 
     }
 
@@ -727,7 +728,7 @@
 
     ul.sidebar-menu li.active a, ul.sidebar-menu li a:hover, ul.sidebar-menu li a:focus {
 
-        background: #4e73df;
+        background: #ba7182;
 
         color: #fff;
 
@@ -980,8 +981,7 @@
 
 
     #main-content {
-
-        margin-left: 180px;
+        margin-left: 200px;
 
     }
 
@@ -1108,13 +1108,9 @@
     }
 
     .search-row {
-
         float: left;
-
         margin-top: 15px;
-
         margin-left: 16px;
-
     }
 
     .notification-row {
@@ -1237,7 +1233,7 @@
 
     .navbar-form .form-control{
 
-        width: 200px;
+        width: 350px;
 
         height: 30px;
 
@@ -1759,7 +1755,7 @@
 
     .page-header i {
 
-    color: #acb1b8;
+    color: #000000;
 
     margin-right: 10px;
 
@@ -1967,9 +1963,9 @@
 
     color : #fff;
 
-    background : #57889c;
+    background : #12779f;
 
-    background-color : #57889c;
+    background-color : #12779f;
 
     }
 
@@ -1977,9 +1973,9 @@
 
     color : #fff;
 
-    background : #26c281;
+    background : #156d48;
 
-    background-color : #26c281;
+    background-color : #156d48;
 
     }
 
@@ -2067,9 +2063,9 @@
 
     color : #fff;
 
-    background : #d1b993;
+    background : #896b3b;
 
-    background-color : #d1b993;
+    background-color : #896b3b;
 
     }
 
@@ -2086,25 +2082,21 @@
         color: #fff;
     }
     .dark-bg {
-
-    color : #fff;
-
-    background : #1a2732;
-
-    background-color : #328ad5;
-
+        color : #fff;
+        background : #9a4055;
+        background-color : #9a4055;
     }
 
     .facebook-bg {
-
-    color: #fff;
-
-    background: #3b5998;
-
-    background-color : #3b5998;
-
+        color: #fff;
+        background: #3b5998;
+        background-color : #3b5998;
     }
 
+    /* .icon-bell-l{
+        background-color: #9a4055;
+    
+    } */
     .twitter-bg {
 
     color: #fff;
@@ -9922,9 +9914,8 @@
 }
 .home-image{
     width: 120px;
-    height: 120px;
-    
-}
+    height: 120px;}
+
 .home-image img{
     width: 100%;
     height: 100%;

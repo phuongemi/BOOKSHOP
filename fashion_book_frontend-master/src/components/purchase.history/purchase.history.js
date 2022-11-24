@@ -93,7 +93,7 @@ class HistoryPurchase extends Component {
         <div className="logo-404">
         <div>
           <div className='null-cart'>
-            <img src="/assets/images/home/logo1.gif" alt="" />
+            <img src="/assets/images/home/LogoBook.png" alt="" />
             
           </div>
           <h3 className='title'>Không Có Đơn Hàng</h3>

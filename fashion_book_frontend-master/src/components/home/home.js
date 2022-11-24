@@ -4,7 +4,7 @@ import HeaderBottom from '../header/header.bottom'
 import ContentHome from './content.home'
 import FooterTop from '../footer/footer.top'
 import FooterMiddle from '../footer/footer.middle'
-// import FooterBottom from '../footer/footer.bottom'
+import FooterBottom from '../footer/footer.bottom'
 const Home = ({ islogin, logout, category,
     publisher, book, totalpage, backPage,
     nextPage, setPage, page, sortType, setSortType,
@@ -47,7 +47,7 @@ const Home = ({ islogin, logout, category,
             <footer id="footer">
                 <FooterTop />
                 <FooterMiddle />
-                {/* <FooterBottom /> */}
+                <FooterBottom />
             </footer>
         </div>
 

@@ -20,7 +20,7 @@ class Navbar extends Component {
 
                 <div className="top-nav notification-row">
                     <ul className="nav pull-right top-menu">
-                        <li id="task_notificatoin_bar" className="dropdown">
+                        {/* <li id="task_notificatoin_bar" className="dropdown">
                             <a data-toggle="dropdown" className="dropdown-toggle" href="#">
                                 <i className="icon-task-l"></i>
                                 <span className="badge bg-important">6</span>
@@ -102,8 +102,8 @@ class Navbar extends Component {
                                     <a href="#">See All Tasks</a>
                                 </li>
                             </ul>
-                        </li>
-                        <li id="mail_notificatoin_bar" className="dropdown">
+                        </li> */}
+                        {/* <li id="mail_notificatoin_bar" className="dropdown">
                             <a data-toggle="dropdown" className="dropdown-toggle" href="#">
                                 <i className="icon-envelope-l"></i>
                                 <span className="badge bg-important">5</span>
@@ -165,8 +165,8 @@ class Navbar extends Component {
                                     <a href="#">See all messages</a>
                                 </li>
                             </ul>
-                        </li>
-                        <li id="alert_notificatoin_bar" className="dropdown">
+                        </li> */}
+                        {/* <li id="alert_notificatoin_bar" className="dropdown">
                             <a data-toggle="dropdown" className="dropdown-toggle" href="#">
 
                                 <i className="icon-bell-l"></i>
@@ -209,7 +209,7 @@ class Navbar extends Component {
                                     <a href="#">See all notifications</a>
                                 </li>
                             </ul>
-                        </li>
+                        </li> */}
                         <li className="dropdown">
                             <a data-toggle="dropdown" className="dropdown-toggle" href="#">
                                
@@ -218,7 +218,7 @@ class Navbar extends Component {
                             </a>
                             <ul className="dropdown-menu extended logout">
                                 <div className="log-arrow-up"></div>
-                                <li className="eborder-top">
+                                {/* <li className="eborder-top">
                                     <a href="#"><i className="icon_profile"></i> My Profile</a>
                                 </li>
                                 <li>
@@ -229,16 +229,16 @@ class Navbar extends Component {
                                 </li>
                                 <li>
                                     <a href="#"><i className="icon_chat_alt"></i> Chats</a>
-                                </li>
+                                </li> */}
                                 <li>
                                     <a onClick={() => this.props.logout()}><i className="icon_key_alt"></i> Log Out</a>
                                 </li>
-                                <li>
+                                {/* <li>
                                     <a href="documentation.html"><i className="icon_key_alt"></i> Documentation</a>
                                 </li>
                                 <li>
                                     <a href="documentation.html"><i className="icon_key_alt"></i> Documentation</a>
-                                </li>
+                                </li> */}
                             </ul>
                         </li>
 

@@ -44,7 +44,7 @@ class Slider extends Component {
                         </li>
                        
 
-                        <li className="sub-menu">
+                        {/* <li className="sub-menu">
                             <a href="javascript:;" className="">
                                 <i className="icon_table"></i>
                                 <span>Tables</span>
@@ -53,9 +53,9 @@ class Slider extends Component {
                             <ul className="sub">
                                 <li><a className="" href="basic_table.html">Basic Table</a></li>
                             </ul>
-                        </li>
+                        </li> */}
 
-                        <li className="sub-menu">
+                        {/*<li className="sub-menu">
                             <a href="javascript:;" className="">
                                 <i className="icon_documents_alt"></i>
                                 <span>Pages</span>
@@ -68,7 +68,7 @@ class Slider extends Component {
                                 <li><a className="" href="blank.html">Blank Page</a></li>
                                 <li><a className="" href="404.html">404 Error</a></li>
                             </ul>
-                        </li>
+                    </li> */}
 
                     </ul>
       </div>
