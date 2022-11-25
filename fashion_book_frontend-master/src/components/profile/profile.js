@@ -121,7 +121,7 @@ class Profile extends Component {
         onClick={() => this.props.updateInfor()}
         className="btn btn-default"
       >
-        update
+        Update
       </button>
     </div>
   </div>
@@ -157,7 +157,7 @@ if(this.state.profile){
       placeholder="Confirm"
     />
     <button onClick={() => this.handleUpdatePassword()}
-    className="btn btn-default">update</button>
+    className="btn btn-default">Update</button>
   </div>
   </div>
 </div>

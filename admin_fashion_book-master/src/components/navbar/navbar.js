@@ -7,7 +7,7 @@ class Navbar extends Component {
                 <div className="toggle-nav">
                     <div className="icon-reorder tooltips" data-original-title="Toggle Navigation" data-placement="bottom"><i className="icon_menu"></i></div>
                 </div>
-                <a href="/" className="logo">BookShop <span className="lite"></span></a>
+                <a href="/" className="logo">StoryShop <span className="lite"></span></a>
                 <div className="nav search-row" id="top_menu">
                     <ul className="nav top-menu">
                         <li>
@@ -213,7 +213,7 @@ class Navbar extends Component {
                         <li className="dropdown">
                             <a data-toggle="dropdown" className="dropdown-toggle" href="#">
                                
-                                <span className="username">BookShop</span>
+                                <span className="username">StoryShop</span>
                                 <b className="caret"></b>
                             </a>
                             <ul className="dropdown-menu extended logout">

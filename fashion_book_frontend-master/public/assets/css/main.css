@@ -57,7 +57,7 @@
         bottom: 0px;
         right: 10px;
         padding: 5px 10px;
-        background: #f15129;
+        background: #c84f4f;
         color: #FFF;
         -webkit-animation: bounce 2s ease infinite;
         animation: bounce 2s ease infinite;
@@ -72,7 +72,7 @@
       **************************/
 
       .header-middle .container .row {
-        border-bottom: 1px solid #f5f5f5;
+        border-bottom: 1px solid #edebeb;
         padding-bottom: 20px;
         /* padding-top: 20px; */
       }
@@ -87,13 +87,13 @@
       }
 
       .usa:hover {
-        background:#f15129;
+        background:#c84f4f;
         color:#fff;
-        border-color:#f15129;
+        border-color:#c84f4f;
       }
 
       .usa:active, .usa.active {
-        background: none repeat scroll 0 0 #f15129;
+        background: none repeat scroll 0 0 #c84f4f;
         box-shadow: inherit;
         outline: 0 none;
       }
@@ -104,7 +104,7 @@
       }
 
       .dropdown-menu  li  a:hover, .dropdown-menu  li  a:focus {
-        background-color: #f15129;
+        background-color: #c84f4f;
         color: #FFFFFF;
         font-family: 'Roboto', sans-serif;
         text-decoration: none;
@@ -137,7 +137,7 @@
 
 
       .shop-menu ul li a:hover {
-        color:#f15129;
+        color:#c84f4f;
         background:#fff;
       }
 
@@ -165,7 +165,7 @@
 
       .mainmenu ul li a:hover, .mainmenu ul li a.active,  .shop-menu ul li a.active{
         background:none;
-        color:#fdb45e;
+        color:#c84f4f;
       }
 
       .aler-box{
@@ -194,12 +194,12 @@
         }
 
         .btn-close:hover{
-        color: #f15129;
+        color: #c84f4f;
         
         }
 
         .content-404.forgotpass .btn{
-          background-color: #f15129;
+          background-color: #c84f4f;
           color: #fff;
         }
 
@@ -276,7 +276,7 @@
       }
 
       .dropdown ul.sub-menu li .active{
-        color: #FDB45E;
+        color: #b44f4f;
         padding-left: 0;
       }
 
@@ -294,7 +294,7 @@
       }
 
       .navbar-nav li ul.sub-menu li a:hover{
-          color: #FDB45E;
+          color: #973232;
       }
 
       .fa-angle-down{
@@ -340,7 +340,7 @@
       }
 
       .companyinfo h2  span{
-        color:#f15129;
+        color:#c84f4f;
       }
       .footer-content li{
         display: flex;
@@ -396,7 +396,7 @@
 
       .form-footer input{
         background-color: transparent;
-        border: 1px solid #f15129;
+        border: 1px solid #c84f4f;
         padding: 1rem 0;
         border-radius: 5px;
         color: #fff;
@@ -413,7 +413,7 @@
       .form-footer button{
         width: 100px;
         padding: 1rem 0;
-        background-color: #f15129;
+        background-color: #c84f4f;
         border-radius: 5px;
         color: #fff;
         font-weight: 600;
@@ -430,7 +430,7 @@
 
       .single-widget ul li a:hover{
         background:none;
-        color:#f15129;
+        color:#c84f4f;
       }
 
       .input {
@@ -467,7 +467,7 @@
       }
 
       .carousel-indicators li.active {
-          background: #f15129;
+          background: #c84f4f;
       }
 
       .item {
@@ -493,7 +493,7 @@
       }
 
       .item h1 span {
-        color:#f15129;
+        color:#c84f4f;
       }
 
       .item h2 {
@@ -513,7 +513,7 @@
       }
 
       .get {
-        background: #f15129;
+        background: #c84f4f;
         border: 0 none;
         border-radius: 0;
         color: #FFFFFF;
@@ -525,7 +525,7 @@
 
 
       .item button:hover {
-        background: #f15129;
+        background: #c84f4f;
       }
 
       .control-carousel {
@@ -536,7 +536,7 @@
       }
 
       .control-carousel:hover{
-        color: #f15129 ;
+        color: #c84f4f ;
       }
 
       .right {
@@ -555,7 +555,7 @@
         cursor: pointer;
       }
       .left-sidebar h2, .brands_products h2 {
-        color: #f15129;
+        color: #c84f4f;
         font-family: 'Roboto', sans-serif;
         font-size: 18px;
         font-weight: 700;
@@ -569,7 +569,7 @@
       .left-sidebar h2:after, h2.title:after{
         content: " ";
         position: absolute;
-        border: 1px solid #f15129;
+        border: 1px solid #c84f4f;
         bottom:8px;
         left: 0;
         width: 100%;
@@ -708,7 +708,7 @@
 
 
       .tooltip-inner {
-        background-color: #f15129;
+        background-color: #c84f4f;
         border-radius: 4px;
         color: #FFFFFF;
         max-width: 200px;
@@ -718,7 +718,7 @@
       }
 
       .tooltip.top .tooltip-arrow {
-        border-top-color: #f15129;
+        border-top-color: #c84f4f;
         border-width: 5px 5px 0;
         bottom: 0;
         left: 50%;
@@ -736,7 +736,7 @@
 
 
       h2.title {
-        color: #f15129;
+        color: #c84f4f;
         font-family: 'Roboto', sans-serif;
         font-size: 18px;
         font-weight: 700;
@@ -755,7 +755,7 @@
       .single-products {
         position: relative;
         min-height: 350px;
-        border: 1px solid #f15129;
+        border: 1px solid #c84f4f;
           border-radius: 10px;
       }
       .features_items .col-sm-4{
@@ -772,13 +772,13 @@
       }
 
       .productinfo h2{
-        color: #f15129;
+        color: #c84f4f;
         font-family: 'Roboto', sans-serif;
         font-size: 24px;
         font-weight: 700;
       }
       .productinfo h5{
-        color: #f15129;
+        color: #c84f4f;
         font-family: 'Roboto', sans-serif;
         font-size: 15px;
       }
@@ -825,7 +825,7 @@
       }
 
       .product-overlay {
-        background:#f15129;
+        background:#c84f4f;
         top: 0;
         display: none;
         height: 0;
@@ -854,7 +854,7 @@
         background:#fff;
         border: 0 none;
         border-radius: 0;
-        color: #f15129;
+        color: #c84f4f;
         font-family: 'Roboto', sans-serif;
         font-size: 15px;
         margin-bottom: 25px;
@@ -862,7 +862,7 @@
 
       .product-overlay .add-to-cart:hover {
         background:#fff;
-        color: #f15129;
+        color: #c84f4f;
       }
 
 
@@ -888,7 +888,7 @@
       }
 
       .add-to-cart:hover {
-        background: #f15129;
+        background: #c84f4f;
         border: 0 none;
         border-radius: 0;
         color: #FFFFFF;
@@ -903,7 +903,7 @@
       }
 
       .add-to-cart:hover {
-        background: #f15129;
+        background: #c84f4f;
         color: #FFFFFF;
       }
 
@@ -925,7 +925,7 @@
 
       .choose ul li a:hover{
         background:none;
-        color:#f15129;
+        color:#c84f4f;
       }
 
       .category-tab {
@@ -934,7 +934,7 @@
 
       .category-tab ul {
         background: #40403E;
-        border-bottom: 1px solid #f15129;
+        border-bottom: 1px solid #c84f4f;
         list-style: none outside none;
         margin: 0 0 30px;
         padding: 0;
@@ -952,7 +952,7 @@
       }
 
       .category-tab ul  li  a:hover{
-        background:#f15129;
+        background:#c84f4f;
         color:#fff;
       }
 
@@ -961,7 +961,7 @@
         -moz-border-left-colors: none;
         -moz-border-right-colors: none;
         -moz-border-top-colors: none;
-        background-color: #f15129;
+        background-color: #c84f4f;
         border:0px;
         color: #FFFFFF;
         cursor: default;
@@ -990,7 +990,7 @@
       }
 
       .recommended-item-control i {
-        background: none repeat scroll 0 0 #f15129;
+        background: none repeat scroll 0 0 #c84f4f;
         color: #FFFFFF;
         font-size: 20px;
         padding: 4px 10px;
@@ -1052,8 +1052,8 @@
       }
 
       .pagination  .active  a, .pagination  .active  span, .pagination  .active  a:hover, .pagination  .active  span:hover, .pagination  .active  a:focus, .pagination  .active  span:focus {
-        background-color: #f15129;
-        border-color: #f15129;
+        background-color: #c84f4f;
+        border-color: #c84f4f;
         color: #FFFFFF;
         cursor: default;
         z-index: 2;
@@ -1073,7 +1073,7 @@
       }
 
       .pagination  li  a:hover{
-        background:#f15129;
+        background:#c84f4f;
         color:#fff;
       }
 
@@ -1119,7 +1119,7 @@
       }
 
       .view-product h3 {
-        background: #f15129;
+        background: #c84f4f;
         bottom: 0;
         color: #FFFFFF;
         font-family: 'Roboto', sans-serif;
@@ -1145,7 +1145,7 @@
         top: 35%;
       }
       .item-control i {
-        background: #f15129;
+        background: #c84f4f;
         color: #FFFFFF;
         font-size: 20px;
         padding: 5px 10px;
@@ -1156,7 +1156,7 @@
       }
 
       .product-information {
-        border: 1px solid #f15129;
+        border: 1px solid #c84f4f;
         overflow: hidden;
         border-radius: 15px;
         padding-left: 60px;
@@ -1190,7 +1190,7 @@
       }
 
       .product-information span span {
-        color: #f15129;
+        color: #c84f4f;
         font-family: 'Roboto', sans-serif;
         font-size: 30px;
         font-weight: 700;
@@ -1221,7 +1221,7 @@
       }
 
       .cart {
-        background: #f15129;
+        background: #c84f4f;
         border: 0 none;
         border-radius: 10px;
         color: #FFFFFF;
@@ -1268,13 +1268,13 @@
       }
 
       #reviews ul li a i{
-        color:#f15129;
+        color:#c84f4f;
         padding-right:8px;
       }
 
       #reviews ul li a:hover{
         background:#fff;
-        color:#f15129;
+        color:#c84f4f;
       }
 
       #reviews p{
@@ -1311,7 +1311,7 @@
         font-size: 16px;
       }
       .menu-profile ul button:hover{
-        color: #f15129;
+        color: #c84f4f;
 
       }
       .btn-default{
@@ -1319,8 +1319,8 @@
         border: 1px solid transparent;
       }
       .btn-default:hover{
-        background-color: #f15129;
-        border: 1px solid #f15129;
+        background-color: #c84f4f;
+        border: 1px solid #c84f4f;
         color: #fff;
         font-size: 20px;
         transition: all 0.3s ease-in-out;
@@ -1349,7 +1349,7 @@
         padding: 3.5rem 0;
       }
       #reviews button {
-        background: #f15129;
+        background: #c84f4f;
         border: 0 none;
         border-radius: 10px;
         color: #FFFFFF;
@@ -1440,7 +1440,7 @@
       }
 
       .content-404 h2 a {
-        background: #f15129;
+        background: #c84f4f;
         color: #FFFFFF;
         font-family: 'Roboto', sans-serif;
         font-size: 44px;
@@ -1478,7 +1478,7 @@
       }
       .forgotpass input{
         background: transparent;
-        border: 1px solid #f15129;
+        border: 1px solid #c84f4f;
         color: #696763;
         display: block;
         font-family: 'Roboto', sans-serif;
@@ -1515,8 +1515,8 @@
 
 
       hr{
-        background-color: #f15129;
-        color: #f15129;
+        background-color: #c84f4f;
+        color: #c84f4f;
         height: 1px;
       }
       .homePage{
@@ -1535,7 +1535,7 @@
         outline: medium none;
         padding-left: 10px;
         width: 100%;
-        border: 1px solid #f15129;
+        border: 1px solid #c84f4f;
         border-radius: 1rem;
         margin: 2.5rem 0;
       }
@@ -1558,10 +1558,10 @@
 
       .login-form  button, .signup-form  button {
         background: transparent;
-        border: 1px solid #f15129;
+        border: 1px solid #c84f4f;
         border-radius: 1rem;
         display: block;
-        color: #f15129;
+        color: #c84f4f;
         font-size: 20px;
         font-family: 'Roboto', sans-serif;
         padding: 1rem 0;
@@ -1585,7 +1585,7 @@
 
 
       .or{
-        background: #f15129;
+        background: #c84f4f;
         border-radius: 40px;
         color: #FFFFFF;
         font-family: 'Roboto', sans-serif;
@@ -1618,7 +1618,7 @@
       }
 
       .breadcrumbs .breadcrumb li a {
-        background:#f15129;
+        background:#c84f4f;
         color: #FFFFFF;
         padding: 3px 7px;
       }
@@ -1669,7 +1669,7 @@
         border-radius: 6px;
       }
       #cart_items .cart_info .cart_menu {
-        background: #f15129;
+        background: #c84f4f;
         color: #fff;
         font-size: 16px;
         font-family: 'Roboto', sans-serif;
@@ -1728,7 +1728,7 @@
 
 
       #cart_items .cart_info .cart_total_price {
-        color: #f15129;
+        color: #c84f4f;
         font-size: 24px;
       }
 
@@ -1791,10 +1791,10 @@
       }
 
       .cart_delete a:hover {
-        background:#f15129
+        background:#c84f4f
       }
       .cart_delete_disable a:hover {
-        background:#f15129
+        background:#c84f4f
       }
 
       .bg h2.title {
@@ -1864,7 +1864,7 @@
         width: 40%;
         margin-right: 10px;
         padding: 0.5rem 0;
-        border: 1px solid #f15129;
+        border: 1px solid #c84f4f;
       }
       .user_option span {
         color: tomato;
@@ -1926,7 +1926,7 @@
       }
 
       .update, .check_out {
-        background: #f15129;
+        background: #c84f4f;
         border-radius: 5px;
         color: #FFFFFF;
         margin-top: 18px;
@@ -1994,7 +1994,7 @@
       }
 
       .checkout-options .nav li a {
-        color: #f15129;
+        color: #c84f4f;
         font-size: 18px;
         font-weight: normal;
         padding: 0
@@ -2008,7 +2008,7 @@
         margin-right: 10px;
         border-radius: 50%;
         padding: 5px;
-        background: #f15129;
+        background: #c84f4f;
         color:#fff;
         font-size: 14px;
         padding: 2px 3px;
@@ -2040,7 +2040,7 @@
       }
 
       .shopper-info .btn-primary {
-        background: #f15129;
+        background: #c84f4f;
         border: 0 none;
         border-radius: 0;
         margin-right: 15px;
@@ -2113,7 +2113,7 @@
 
       #cart_items .cart_info 
       .table.table-condensed.total-result span {
-        color: #f15129;
+        color: #c84f4f;
         font-weight: 700;
         font-size: 16px
       }
@@ -2184,7 +2184,7 @@
 
       .blog-post-area 
       .post-meta ul li i {
-        background:#f15129;
+        background:#c84f4f;
         color: #FFFFFF;
         margin-left: -4px;
         margin-right: 7px;
@@ -2198,7 +2198,7 @@
         position: absolute;
         width: auto;
         height: auto;
-        border-color:transparent transparent transparent #f15129;
+        border-color:transparent transparent transparent #c84f4f;
         border-width:4px;
         border-style: solid;
         top:6px;
@@ -2208,7 +2208,7 @@
       .blog-post-area 
       .post-meta ul span {
         float: right;
-        color: #f15129
+        color: #c84f4f
       }
 
       .post-meta span{
@@ -2216,14 +2216,14 @@
       }
 
       .post-meta span i{
-        color: #f15129
+        color: #c84f4f
       }
 
 
       .blog-post-area  
       .single-blog-post 
       .btn-primary {
-        background:#f15129;
+        background:#c84f4f;
         border: medium none;
         border-radius: 0;
         color: #FFFFFF;
@@ -2250,7 +2250,7 @@
       .pagination li a:hover,
       .pagination-area 
       .pagination li .active {
-        background:#f15129;
+        background:#c84f4f;
         color: #fff
       }
 
@@ -2278,7 +2278,7 @@
 
       .pager-area 
       .pager li a:hover {
-        background: #f15129;
+        background: #c84f4f;
         color: #fff
       }
 
@@ -2316,7 +2316,7 @@
       .rating-area 
       .ratings .color, 
       .rating-area .color {
-        color: #f15129
+        color: #c84f4f
       }
 
 
@@ -2405,7 +2405,7 @@
 
       .blog-socials ul li a:hover {
         color: #fff;
-        background:#f15129
+        background:#c84f4f
       }
 
 
@@ -2469,7 +2469,7 @@
       }
 
       .sinlge-post-meta li i {
-        background:#f15129;
+        background:#c84f4f;
         color: #FFFFFF;
         margin-right: 10px;
         padding: 8px 10px;
@@ -2496,7 +2496,7 @@
       }
 
       .replay-box label {
-        background:#f15129;
+        background:#c84f4f;
         color: #FFFFFF;
         margin-bottom: 15px;
         padding: 3px 15px;
@@ -2505,7 +2505,7 @@
       }
 
       .replay-box span {
-        color: #f15129;
+        color: #c84f4f;
         float: right;
         font-weight: 700;
         margin-top: 21px;
@@ -2522,7 +2522,7 @@
 
       .replay-box form input:hover, 
       .text-area textarea:hover {
-        border: 1px solid #f15129;
+        border: 1px solid #c84f4f;
       }
 
       .text-area {
@@ -2535,7 +2535,7 @@
       }
 
       .btn.btn-primary {
-        background:#f15129;
+        background:#c84f4f;
         border: 0 none;
         border-radius: 0;
         margin-top: 16px;
@@ -2552,7 +2552,7 @@
         height: auto;
         border-style: solid;
         border-width: 8px;
-        border-color:#f15129 transparent transparent transparent;
+        border-color:#c84f4f transparent transparent transparent;
         top: 25px;
         left: 5px
       } 
@@ -2660,7 +2660,7 @@
       }
 
       .contact-info .social-networks ul li a:hover{
-        color: #f15129;
+        color: #c84f4f;
       }
 
       .header-bottom .btn-group .btn-custom {

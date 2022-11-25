@@ -131,10 +131,10 @@ class ContentProductDetail extends Component {
       <div className='aler-title'>
         <h3 className='title'>Thông Tin Đơn Hàng</h3>
       </div>
-      <div className='aler-body'>Đặt Hàng thành công</div>
+      <div className='aler-body'>Thêm vào giỏ hàng thành công</div>
       <div className='alert-footer'>
         <button className="roduct-variation" onClick={() => this.setState({ noti: false })}>
-          Cancel
+          OK
           
         </button>
       </div>
@@ -240,7 +240,7 @@ class ContentProductDetail extends Component {
                     <Modal.Body>Đặt Hàng Thành Công</Modal.Body>
                     <Modal.Footer>
                       <Button onClick={() => this.setState({ show: false })}>
-                        <a>Cancel</a>
+                        <a>OK</a>
                       </Button>
                       
                     </Modal.Footer>
@@ -250,7 +250,7 @@ class ContentProductDetail extends Component {
                
                   <div className="col-sm-12 review-product">
                     <div>
-                      <h3>Review Sách</h3>
+                      <h3>Review Truyện</h3>
                     </div>
                    
                   </div>

@@ -6,10 +6,10 @@ const FooterTop = () => (
             <div className="row">
                 <div className="col-sm-6">
                     <div className="companyinfo">
-                        <h2><span>BookShop</span></h2>
-                        <p>Bookshop là một website chuyên bán sách, bao gồm nhiều thể loại đa dạng và phong phú. 
-                        Chúng tôi muốn mang đến cho khách hàng những cuốn sách với nội dung hay và giá cả hợp lí. 
-                        Đồng thời, chúng tôi cũng muốn cung cấp các trải nhiệm tuyệt vời nhất đến với khách hàng.
+                        <h2><span>StoryShop</span></h2>
+                        <p>StoryShop là một website chuyên bán truyện, bao gồm nhiều thể loại đa dạng và phong phú. 
+                        Chúng tôi muốn mang đến cho khách hàng những cuốn truyện với nội dung hay và giá cả hợp lí. 
+                        Đồng thời, chúng tôi cũng muốn cung cấp các trải nghiệm tuyệt vời nhất đến với khách hàng.
                         </p>
                     </div>
                 </div>

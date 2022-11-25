@@ -132,7 +132,7 @@
 
     .lite{
 
-        color: #00a0df !important;
+        color: #b14747 !important;
 
     }
 
@@ -414,7 +414,7 @@
 
         font-size: 16px;
 
-        color: #00a0df;
+        color: #b14747;
 
     }
 
@@ -526,7 +526,7 @@
 
         position: fixed;
 
-        background: #9a4055;
+        background: #b14747;
         font-family: serif;
 
     }
@@ -570,7 +570,7 @@
     #sidebar > ul > li.active > ul.sub, #sidebar > ul > li > ul.sub > li > a {
 
         display: block;
-        color: #414141;
+        color: #000000;
 
 
     }
@@ -1175,7 +1175,7 @@
 
         padding: 3px 5px;
 
-        background: #00a0df;
+        background: #b14747;
 
         font-weight: 400;
 
@@ -1193,7 +1193,7 @@
 
         padding: 3px 5px;
 
-        background: #00a0df;
+        background: #b14747;
 
     }
 
@@ -1355,7 +1355,7 @@
 
     .dropdown-menu.extended li p.red {
 
-        background-color: #00a0df;
+        background-color: #b14747;
 
         color: #fff;
 
@@ -2083,8 +2083,8 @@
     }
     .dark-bg {
         color : #fff;
-        background : #9a4055;
-        background-color : #9a4055;
+        background : #b14747;
+        background-color : #b14747;
     }
 
     .facebook-bg {
@@ -2094,7 +2094,7 @@
     }
 
     /* .icon-bell-l{
-        background-color: #9a4055;
+        background-color: #b14747;
     
     } */
     .twitter-bg {
@@ -3487,11 +3487,11 @@
 
     .notify-arrow-red {
 
-        border-color: transparent transparent #00a0df;
+        border-color: transparent transparent #b14747;
 
-        border-bottom-color: #00a0df !important;
+        border-bottom-color: #b14747 !important;
 
-        border-top-color: #00a0df !important;
+        border-top-color: #b14747 !important;
 
     }
 
@@ -3721,7 +3721,7 @@
 
     .state-overview .red {
 
-        background: #00a0df;
+        background: #b14747;
 
     }
 
@@ -3955,7 +3955,7 @@
 
     .badge.bg-important {
 
-        background: #00a0df;
+        background: #b14747;
 
         font-family: 'Lato', sans-serif;
 
@@ -4269,7 +4269,7 @@
 
     .flat-carousal {
 
-        background: #00a0df;
+        background: #b14747;
 
         padding: 10px;
 
@@ -4367,7 +4367,7 @@
 
     ul.ft-link li a:hover, ul.ft-link li.active a {
 
-        color: #00a0df;
+        color: #b14747;
 
     }
 
@@ -4816,7 +4816,7 @@
 
     .social-footer ul li a:hover i.icon-twitter, .social-footer ul li.active a i.icon-twitter {
 
-        color: #00a0df;
+        color: #b14747;
 
     }
 
@@ -5914,7 +5914,7 @@
 
     .btn-compose {
 
-        background: #00a0df;
+        background: #b14747;
 
         padding: 12px 0;
 
@@ -6782,7 +6782,7 @@
 
     .profile-widget-danger{
 
-        background: #00a0df !important;
+        background: #b14747 !important;
 
     }
 
@@ -7884,7 +7884,7 @@
 
     .carousel-indicators .active {
 
-        background:#00a0df;
+        background:#b14747;
 
         height: 10px;
 
@@ -8098,7 +8098,7 @@
 
         margin: 5px 0;
 
-        color: #00a0df;
+        color: #b14747;
 
         font-weight: 400;
 
@@ -8108,7 +8108,7 @@
 
     input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:focus, .form-validate .form-group input.error , .form-validate .form-group textarea.error{
 
-        border-color: #00a0df !important;
+        border-color: #b14747 !important;
 
     }
 
@@ -8122,7 +8122,7 @@
 
         width: auto;
 
-        color: #00a0df;
+        color: #b14747;
 
     }
 
@@ -9288,7 +9288,7 @@
 
     .twt-feed.blue-bg {
 
-        background: #00a0df;
+        background: #b14747;
 
     }
 

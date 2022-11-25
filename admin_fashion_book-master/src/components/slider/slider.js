@@ -14,11 +14,11 @@ class Slider extends Component {
                         <li className="sub-menu">
                             <a href="javascript:" className=""> 
                                 <i className="icon_document_alt"></i>
-                                <span>Quản Lý Sách</span>
+                                <span>Quản Lý Truyện</span>
                                 <span className="menu-arrow arrow_carrot-right"></span>
                             </a>
                             <ul className="sub">
-                                <li><a className="" href="/bookmanager">Sách </a></li>
+                                <li><a className="" href="/bookmanager">Truyện </a></li>
                                 <li><a className="" href="/categorymanager">Thể Loại </a></li>
                                 <li><a className="" href="/publishermanager">Nhà Xuất Bản</a></li>
                                 <li><a className="" href="/authormanager">Tác Giả</a></li>
