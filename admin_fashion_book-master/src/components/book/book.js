@@ -453,7 +453,7 @@ class Book extends Component {
                 <i className="fa fa-table" />Table
               </li>
               <li>
-                <i className="fa fa-th-list" />Book Manager
+                <i className="fa fa-th-list" />Story Manager
               </li>
             </ol>
           </div>
@@ -475,7 +475,7 @@ class Book extends Component {
                       <i className="icon_mail_alt" /> Price
                     </th>
                     <th>
-                      <i className="icon_pin_alt" /> describe
+                      <i className="icon_pin_alt" /> Describe
                     </th>
                     <th>
                       <i className="icon_cogs" /> Action

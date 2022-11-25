@@ -36,7 +36,7 @@ const author = (state = {data: []}, action) => {
 }
 
 const book = (state = {
-    data: [], page: 1, totalpage: null, title: 'ALL BOOK', searchtext: '',
+    data: [], page: 1, totalpage: null, title: 'ALL STORY', searchtext: '',
     sortType: sortTypes.SORT_DAY_DECREASED, sortOrder: -1
 }, action) => {
     switch (action.type) {
@@ -90,7 +90,7 @@ const book = (state = {
             }
         }
         case homeTypes.RESET_BOOK: {
-            return { data: [], page: 1, totalpage: null, title: 'ALL BOOK',
+            return { data: [], page: 1, totalpage: null, title: 'ALL STORY',
             sortType: sortTypes.SORT_DAY_DECREASED, sortOrder: -1}
         }
         case homeTypes.SET_SEARCH_TEXT: {

@@ -31,7 +31,7 @@ class Home extends Component {
               </div>
             </div>
 
-            <div className="row">
+            {/* <div className="row">
               <div className="col-lg-3 col-md-3 col-sm-12 col-xs-12">
                 <div className="info-box blue-bg">
                   <i className="fa fa-cloud-download" />
@@ -61,7 +61,7 @@ class Home extends Component {
                   <div className="title">Stock</div>
                 </div>
               </div>
-            </div>
+            </div> */}
 
             
 

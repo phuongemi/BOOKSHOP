@@ -2,6 +2,8 @@ import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 import { sortTypes } from '../../constants/action.types'
 import _ from 'lodash'
+
+
 class HeaderBottom extends Component {
     constructor(props) {
         super(props)
@@ -71,7 +73,11 @@ class HeaderBottom extends Component {
                                 />
                             </div>
                         </div> */}
-                       
+                        <div className="col-sm-4">
+                            <div className="search_box pull-right">
+                                
+                            </div>
+                        </div>
 
                     </div>
                 </div>

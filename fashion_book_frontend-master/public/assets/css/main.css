@@ -276,7 +276,7 @@
       }
 
       .dropdown ul.sub-menu li .active{
-        color: #b44f4f;
+        color: #076308;
         padding-left: 0;
       }
 
@@ -294,7 +294,7 @@
       }
 
       .navbar-nav li ul.sub-menu li a:hover{
-          color: #973232;
+          color: #076308;
       }
 
       .fa-angle-down{
@@ -1499,14 +1499,14 @@
 
 
       .signup-form .noti {
-        color: steelblue;
+        color: #076308;
         text-align: center;
         margin-bottom: 10px;
         font-size: 15px;
         text-transform: uppercase;
       }
       .login-form .noti {
-        color: steelblue;
+        color: #076308;
         text-align: center;
         font-size: 15px;
         margin-bottom: 10px;
@@ -1566,7 +1566,7 @@
         font-family: 'Roboto', sans-serif;
         padding: 1rem 0;
         width: 100%;
-        background-color: #fad0c6;
+        background-color: #349a32;
       }
 
       .login-form label{
@@ -1867,7 +1867,7 @@
         border: 1px solid #076308;
       }
       .user_option span {
-        color: tomato;
+        color: #076308;
 
       }
       .user_info {
@@ -1885,7 +1885,7 @@
         margin-bottom: 10px;
       }
       .user_info span {
-        color: tomato;
+        color: #076308;
       padding-top: 10px;
       }
 
@@ -2036,7 +2036,7 @@
         font-weight: 300
       }
       .shopper-info .error {
-        color: #5BBCEC;
+        color: #076308;
       }
 
       .shopper-info .btn-primary {
@@ -2411,7 +2411,7 @@
 
       .media-list .btn-primary, 
       .commnets .btn-primary {
-        background:#FC9A11;
+        background:#076308;
         border: 0 none;
         border-radius: 0;
         color: #FFFFFF;
@@ -2609,7 +2609,7 @@
       #contact-page .form-control:focus, 
       #contact-page .form-control:hover {
         box-shadow: inherit;
-        border-color: #FDB45E;
+        border-color: #076308;
       }
 
       #contact-page .contact-info {
@@ -2724,7 +2724,7 @@
         min-height: 200px;
       }
       .content-conment p {
-        background: wheat;
+        background: #218f23;
         margin-bottom: 5px;
         border-radius: 10px;
         padding-left: 10px;
@@ -2735,6 +2735,6 @@
         max-height: 40px;
       }
       .content-conment p span {
-        color: #5BBCEC;
+        color: #010101;
         margin-right: 10px
       }
